@@ -1,11 +1,8 @@
-.bag{
-    height: 90px;
-    width: 90px;
+
+.eneng{
+    text-decoration-color: blueviolet;
 }
 
-.item-one{
-    margin-top: 70px;
-}
 .carousel-inner{
     background-color: #FCEAE8;
 }
@@ -14,4 +11,11 @@
 }
 .subscribe{
     height: 300px;
+}
+.catagories img{
+    width: 100px;
+  
+}
+.cat-round{
+    border-radius: 20px;
 }
